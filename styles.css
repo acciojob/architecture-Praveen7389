@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+.imageContainer {
+	background-color:#f5f5DC;
+	width:1100px;
+	height:100%;
+	
+}
+table,tr,td {
+	border:1px solid black;
+}
+.img{
+	width:200px;
+}
+.text{
+	width:600px;
+}
+
